@@ -1,3 +1,3 @@
 # Hayvanat Bahçesi Uml Diagramı
 
-![alt text](file:///C:/Users/merts/Masaüstü/uml.JPG)
+![alt text](https://github.com/merttfazli/OOP-ZooUmlDiagram/blob/main/UmlofZoo.JPG)
